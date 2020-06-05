@@ -1,0 +1,4 @@
+function createWallet() {
+    const wallet = {}
+}
+
